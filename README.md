@@ -1,7 +1,7 @@
 # 💫 About Me:
-Computer & AI Engineering Student @ Ain Shams University & UEL.
-Founder & Community Lead @ Eduvance.
-Passionate about Full-Stack, Mobile App Development, and System Engineering.
+Computer & AI Engineering Student @ Ain Shams University & UEL.</br>
+Founder & Community Lead @ Eduvance.</br>
+Passionate about Full-Stack, Mobile App Development, and System Engineering.</br>
 Interested in Automation, Compilers, and Operating Systems.
 
 
@@ -41,7 +41,7 @@ Interested in Automation, Compilers, and Operating Systems.
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 
 
-# 📊 GitHub Stats:
+<!-- # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AhmedNaguib01&theme=date_night&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=AhmedNaguib01&theme=date_night&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedNaguib01&theme=date_night&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedNaguib01&theme=date_night&hide_border=false&include_all_commits=true&count_private=false&layout=compact) -->
